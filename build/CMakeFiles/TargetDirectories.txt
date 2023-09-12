@@ -1,0 +1,3 @@
+/home/jaime/wwws/yolov5_inference/build/CMakeFiles/rebuild_cache.dir
+/home/jaime/wwws/yolov5_inference/build/CMakeFiles/edit_cache.dir
+/home/jaime/wwws/yolov5_inference/build/CMakeFiles/yolov5_cv.dir
